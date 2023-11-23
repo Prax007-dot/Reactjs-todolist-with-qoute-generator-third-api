@@ -1,0 +1,31 @@
+.SingleTodo{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #00ace6;
+  color: #fff;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+ margin-top: 1.5rem;
+
+}
+
+.completed{
+  color: #c5aeff;
+  text-decoration: line-through;
+}
+p{
+  cursor: pointer;
+  margin-left: 2px;
+
+}
+    .fa-pen{
+        cursor: pointer;
+    }
+
+    .fa-trash{
+      margin-left: 0.75rem;
+      cursor: pointer;
+    }

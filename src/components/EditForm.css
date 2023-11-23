@@ -1,0 +1,24 @@
+.todo-inp-edit{
+    background: none;
+    outline: none;
+    border: 1px solid #00ace6;
+    width: 276px;
+
+    font-size: 16px;
+    padding: 0.9rem 0.9rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.todo-btn-edit{
+    margin-bottom: 1rem;
+    background-color: #00ace6;
+    color: white;
+    font-size: 16px;
+    padding: 15px ;
+    border:none;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
